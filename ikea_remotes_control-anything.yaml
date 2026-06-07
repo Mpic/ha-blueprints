@@ -49,7 +49,7 @@ blueprint:
               model: TRADFRI on/off switch
             - integration: mqtt
               manufacturer: IKEA of Sweden
-              model: 09B9
+              model: BILRESA remote control with buttons (Matter)
             - integration: mqtt
               manufacturer: IKEA
               model: BILRESA remote control with buttons
